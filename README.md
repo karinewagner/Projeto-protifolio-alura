@@ -30,10 +30,10 @@
 
 #### 🔹 Ter um rodapé com as informações da pessoa que desenvolveu o portfólio;
 
-### Quer ver como ficou? Fique a vontade... [basta clicar aqui!](https://rocketmovies22.netlify.app/) ☺️👍
+### Quer ver como ficou? Fique a vontade... [basta clicar aqui!](https://karinewagner.github.io/Projeto-protifolio-alura/) ☺️👍
 
 </br>
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.PNG)
 
 </br>
