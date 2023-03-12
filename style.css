@@ -482,4 +482,9 @@ section.footer p {
         width: 150px; 
         height: 150px;
     }
+
+    section.wrapper-box div.wrapper-line div.line-box img {
+        width: 100px; 
+        height: 100px;
+    }
 }
